@@ -1,0 +1,9 @@
+InputData();
+{
+open(Data_file);
+read(ch);
+put(ch);
+writeln();
+arr_1('1','2','3');
+end();
+}
